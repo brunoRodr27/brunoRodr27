@@ -10,9 +10,10 @@
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruno-Kotlin" height="35" width="35" src="https://cdn.discordapp.com/attachments/663560898253946918/1035532462631178360/Delphi.png">
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Bruno-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-   <img align="center" alt="Bruno-Kotlin" height="35" width="35" src="https://cdn.discordapp.com/attachments/663560898253946918/1035532462631178360/Delphi.png">
+  <img align="center" alt="Bruno-Kotlin" height="35" width="35" src="https://cdn.discordapp.com/attachments/663560898253946918/1035533089448923269/Android.png">
   <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/663560898253946918/948059536126787694/Picsart_22-03-01_00-28-17-408.jpg?width=676&height=676">
 </div>
 

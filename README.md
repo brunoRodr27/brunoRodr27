@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=688E4E&height=120&section=header"/>
 
-<h1 align="center">Bruno Da Silva Rodrigues</h1>
+<h1 align="center">Bruno Rodrigues</h1>
 
 ###
 
